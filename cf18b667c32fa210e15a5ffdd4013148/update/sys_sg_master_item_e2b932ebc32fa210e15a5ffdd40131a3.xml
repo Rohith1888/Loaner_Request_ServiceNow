@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_1813162_loaner_x_loaner_requsete</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Loaner Requsete Form Screen">6eb932ebc32fa210e15a5ffdd401319e</embedded_screen>
+        <item_view/>
+        <name>Loaner Requsete master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 06:59:56</sys_created_on>
+        <sys_id>e2b932ebc32fa210e15a5ffdd40131a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Requsete master_item</sys_name>
+        <sys_package display_value="Loaner Request" source="x_1813162_loaner_x">cf18b667c32fa210e15a5ffdd4013148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">cf18b667c32fa210e15a5ffdd4013148</sys_scope>
+        <sys_update_name>sys_sg_master_item_e2b932ebc32fa210e15a5ffdd40131a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 06:59:56</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Loaner Requsete List Screen View Config">96b97eabc32fa210e15a5ffdd40131de</view_config>
+    </sys_sg_master_item>
+</record_update>
