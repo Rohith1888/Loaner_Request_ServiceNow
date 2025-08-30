@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <access_control_type>user_roles</access_control_type>
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Loaner Request</name>
+        <required_roles>x_1813162_loaner_x.loaner requster</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-30 06:59:55</sys_created_on>
+        <sys_id>d2b97eabc32fa210e15a5ffdd40131db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_1813162_loaner_x">cf18b667c32fa210e15a5ffdd4013148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">cf18b667c32fa210e15a5ffdd4013148</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_d2b97eabc32fa210e15a5ffdd40131db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-30 06:59:55</sys_updated_on>
+        <title>Loaner Request</title>
+    </sys_sg_applet_launcher>
+</record_update>
